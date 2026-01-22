@@ -3,11 +3,9 @@
 Interactive Tableau dashboard analyzing New York City’s Airbnb market across listings, pricing, availability, and guest engagement.
 
 ---
+[![Airbnb NYC Market Dashboard Preview](airbnb-dashboard-preview.png)](https://public.tableau.com/views/AirbnbNewyork_17631581845800/Dashboard?:embed=)
 
----
-
-## Links
-- **Interactive Tableau Dashboard:** https://public.tableau.com/views/AirbnbNewyork_17631581845800/Dashboard?:embed=y  
+ https://public.tableau.com/views/AirbnbNewyork_17631581845800/Dashboard?:embed=y  
 
 ---
 

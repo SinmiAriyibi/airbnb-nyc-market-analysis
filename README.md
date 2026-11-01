@@ -3,7 +3,7 @@
 I built an interactive Tableau dashboard from a Kaggle NYC Airbnb dataset to see where listings, prices, and reviews concentrate across the five boroughs. The goal was to turn raw listing data into **market intelligence** that supports pricing, investment, and targeting decisions.
 
  **Tools:** Tableau · Calculated Fields · KPI Design · Market Segmentation · Data Storytelling  
- **Source:** Kaggle (NYC Airbnb listings dataset, 21,328 listings)
+ **Source:** Kaggle (NYC Airbnb listings, cleaned file of 21,328 listings)
 
 ---
 [![Airbnb NYC Market Dashboard Preview](airbnb-dashboard-preview.png)](https://public.tableau.com/views/AirbnbNewyork_17631581845800/Dashboard?:embed=)
